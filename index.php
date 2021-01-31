@@ -30,7 +30,7 @@
                         <td>{{movil.modelo}}</td>
                         <td>
                             <div class="col-md-8">
-                                <input type="number" v-vmodel.number="movil.stock" class="form-control text-rigth" disabled>
+                                <input type="number" v-model.number="movil.stock" class="form-control text-right" disabled>      
                             </div>
                         </td>
                         <td>
