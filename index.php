@@ -15,7 +15,7 @@
       <div class="col-lg-12">
           <table class="table table-striped">
               <thead>
-              <tr>
+              <tr class="bg-success text-light">
                   <th>ID</th>
                   <th>Marca</th>
                   <th>Modelo</th>

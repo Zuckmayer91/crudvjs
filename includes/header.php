@@ -14,5 +14,5 @@
 <body>
 
     <header>
-        <h1 class= "text-center text-dark"><span class="badge badge-primary">Aceleramos tus ideas</span></h1>
+        <h1 class= "text-center text-dark"><span class="badge badge-success">Inventario de celulares</span></h1>
     </header>
